@@ -2,7 +2,7 @@
   <img src=https://i.postimg.cc/WbjS8cnK/IMG-8332.png>
 </p>
 
-<!--
+<div align="center"> ![](https://komarev.com/ghpvc/?username=havoc-duos&color=rainbow&label=★rainbows+counted)
 **havoc-duo/havoc-duo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
