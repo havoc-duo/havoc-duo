@@ -22,7 +22,7 @@
 He   /  They  /  She  <  If  Close  >
 
 <p align="center">
-genderless  transthing  scratchic
+genderless  transthing  scratchic  taken!!
 <p align="center">
 16  ,   i luv my buddies  &  im usually asleep on pt sowwy
 
